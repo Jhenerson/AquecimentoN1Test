@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="br.com.senaigo.test.AquecimentoN1.ConversorTemperatura"/>
+<fullyQualifiedTypeName name="br.com.senaigo.test.AquecimentoN1.TemperaturaCelsius"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="org.junit.Assert"/>
+<fullyQualifiedTypeName name="junit.framework.TestCase"/>
+<fullyQualifiedTypeName name="br.com.senaigo.test.AquecimentoN1.Jogador"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,15 @@
+package br.com.senaigo.test.AquecimentoN1;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class JogoDados extends TestCase{
+
+	@Test
+	public void jogarDadosTest() {
+		assertTrue();
+	}
+
+	
+}

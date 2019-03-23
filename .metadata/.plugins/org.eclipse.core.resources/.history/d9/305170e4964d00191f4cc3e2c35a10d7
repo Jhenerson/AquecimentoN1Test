@@ -1,0 +1,10 @@
+package br.com.senaigo.test.AquecimentoN1;
+
+public class Dado {
+
+	public static void jogarDado(Jogador jogador) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

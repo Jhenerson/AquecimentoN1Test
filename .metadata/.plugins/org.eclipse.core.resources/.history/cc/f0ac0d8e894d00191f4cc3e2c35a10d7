@@ -1,0 +1,18 @@
+package br.com.senaigo.test.AquecimentoN1;
+
+import org.junit.Test;
+
+import junit.framework.TestCase;
+
+public class ConversorTemperaturaTest extends TestCase {
+
+	@Test
+	public void testConverteCelsiusParaFahrenheit() {
+		fail("Not yet implemented");
+	}
+
+	public void testConverteFahrenheitParaCelsius() {
+		fail("Not yet implemented");
+	}
+
+}

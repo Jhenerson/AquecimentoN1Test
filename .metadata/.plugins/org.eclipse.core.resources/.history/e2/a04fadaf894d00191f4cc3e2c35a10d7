@@ -1,0 +1,21 @@
+package br.com.senaigo.test.AquecimentoN1;
+
+import org.junit.Test;
+
+import junit.framework.TestCase;
+
+public class ConversorTemperaturaTest extends TestCase {
+	
+	ConversorTemperatura ct = new ConversorTemperatura();
+
+	@Test
+	public void testConverteCelsiusParaFahrenheit() {
+		double actual = ct.converteCelsiusParaFahrenheit(0);
+		assertEquals(32, actual,0.002);
+	}
+
+	public void testConverteFahrenheitParaCelsius() {
+		fail("Not yet implemented");
+	}
+
+}

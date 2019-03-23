@@ -1,0 +1,14 @@
+package br.com.senaigo.test.AquecimentoN1;
+
+import java.util.Random;
+
+public class Dado {
+
+	public static void jogarDado(Jogador jogador) {
+		
+		Random rand = new Random();
+		int valorJogado = new rand.nextInt(5);
+		
+	}
+
+}

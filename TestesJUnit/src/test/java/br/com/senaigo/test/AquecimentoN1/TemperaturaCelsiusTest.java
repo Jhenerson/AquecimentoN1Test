@@ -1,0 +1,12 @@
+package br.com.senaigo.test.AquecimentoN1;
+import org.junit.Test;
+
+public class TemperaturaCelsiusTest {
+
+	@Test
+	public void testConverteCelsiusParaFahrenheit() {
+		TemperaturaCelsius instance = new TemperaturaCelsius(0);
+		double actual = instance.converteCelsiusParaFahrenheit();		
+	}
+
+}

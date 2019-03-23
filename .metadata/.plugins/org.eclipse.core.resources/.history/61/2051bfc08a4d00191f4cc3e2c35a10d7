@@ -1,0 +1,12 @@
+package br.com.senaigo.test.AquecimentoN1;
+
+public class ConversorTemperatura {
+	public static double converteCelsiusParaFahrenheit(double celsius) {
+		return (celsius * 1.8) + 32;
+	}
+
+	public static double converteFahrenheitParaCelsius(double celsius) {
+		return (((celsius * 1.8) + 32)-32) /1.8;
+	}
+
+}

@@ -1,0 +1,17 @@
+package br.com.senaigo.test.AquecimentoN1;
+
+import org.junit.Test;
+
+
+public class JogoDadosTest {
+	Jogador jogador = new Jogador();
+	
+	
+	@Test
+	public void jogarDadoTest(){	
+		
+		Dado.jogarDado(jogador);
+		assertTrue();
+	}
+
+}
