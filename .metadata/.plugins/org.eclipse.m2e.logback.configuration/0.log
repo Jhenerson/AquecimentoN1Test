@@ -325,3 +325,247 @@
 2019-03-23 15:48:57,268 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
 2019-03-23 15:48:57,272 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-03-23 15:48:57,278 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:10:09,428 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:10:09,435 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:10:09,435 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:10:09,435 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:10:18,933 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:10:18,933 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:10:18,933 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:10:18,933 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:11:22,008 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:11:22,008 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:11:22,008 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:11:22,008 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:11:52,454 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:11:52,454 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:11:52,454 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:11:52,454 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:13:47,896 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:13:47,896 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:13:47,896 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:13:47,896 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:14:28,988 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:14:28,988 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:14:28,998 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:14:28,998 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:15:34,501 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:15:34,501 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:15:34,501 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:15:34,501 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:16:46,384 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:16:46,394 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:16:46,404 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:16:46,404 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:17:03,291 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:17:03,291 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:17:03,291 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:17:03,291 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:17:44,008 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:17:44,022 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:17:44,034 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:17:44,034 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:18:11,075 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:18:11,075 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:18:11,075 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:18:11,075 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:19:39,902 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:19:39,902 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:19:39,913 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:19:39,913 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:20:08,225 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:20:08,225 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:20:08,225 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:20:08,225 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:21:56,462 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:21:56,462 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:21:56,476 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:21:56,476 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:22:12,972 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:22:12,972 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:22:12,972 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:22:12,972 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:22:23,337 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:22:23,337 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:22:23,348 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:22:23,348 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:22:27,001 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:22:27,001 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:22:27,001 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:22:27,001 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:22:35,177 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:22:35,182 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:22:35,189 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:22:35,189 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:22:53,739 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:22:53,739 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:22:53,739 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:22:53,739 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:23:20,669 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:23:20,673 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:23:20,679 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:23:20,679 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:24:05,225 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:24:05,225 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:24:05,225 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:24:05,225 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:25:09,137 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:25:09,143 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:25:09,143 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:25:09,143 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:26:30,285 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:26:30,289 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:26:30,289 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:26:30,289 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:27:24,136 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:27:24,140 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:27:24,146 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:27:24,146 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:28:37,299 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:28:37,299 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:28:37,299 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:28:37,299 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:29:03,136 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:29:03,142 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:29:03,147 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:29:03,147 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:29:49,893 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:29:49,893 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:29:49,893 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:29:49,893 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:30:13,623 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:30:13,627 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:30:13,633 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:30:13,633 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:31:20,375 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:31:20,385 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:31:20,385 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:31:20,385 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:32:25,980 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:32:25,980 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:32:25,989 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:32:25,989 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:32:42,862 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:32:42,862 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:32:42,862 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:32:42,862 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:32:49,517 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:32:49,526 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:32:49,526 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:32:49,526 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:33:09,093 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:33:09,093 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:33:09,093 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:33:09,093 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:33:30,080 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:33:30,085 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:33:30,091 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:33:30,091 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:33:58,200 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:33:58,200 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:33:58,200 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:33:58,200 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:34:20,020 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:34:20,031 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:34:20,031 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:34:20,031 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:35:04,657 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:35:04,657 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:35:04,657 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:35:04,657 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:35:12,734 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:35:12,742 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:35:12,742 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:35:12,742 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:36:00,085 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:36:00,085 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:36:00,089 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:36:00,089 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:36:12,326 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:36:12,326 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:36:12,337 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:36:12,337 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:36:23,794 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:36:23,794 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:36:23,794 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:36:23,794 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:36:52,037 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:36:52,041 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:36:52,047 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:36:52,047 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:36:57,888 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:36:57,888 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:36:57,888 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:36:57,888 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:37:29,965 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:37:29,970 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:37:29,975 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:37:29,975 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:37:43,145 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:37:43,145 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:37:43,147 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:37:43,148 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:37:46,579 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:37:46,589 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:37:46,600 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:37:46,601 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:37:55,414 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:37:55,414 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:37:55,415 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:37:55,415 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:39:28,800 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:39:28,807 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:39:28,814 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:39:28,814 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:40:07,932 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:40:07,933 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:40:07,935 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:40:07,935 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:40:21,774 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:40:21,780 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:40:21,790 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:40:21,790 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:40:33,815 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:40:33,815 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:40:33,816 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:40:33,816 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:40:45,540 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:40:45,550 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:40:45,561 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:40:45,561 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:41:18,038 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:41:18,038 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:41:18,039 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:41:18,039 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:41:34,252 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:41:34,257 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:41:34,264 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:41:34,264 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:41:53,499 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:41:53,499 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:41:53,500 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:41:53,501 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:41:56,727 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:41:56,731 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:41:56,736 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:41:56,736 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:42:37,076 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:42:37,076 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:42:37,077 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:42:37,077 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:43:25,178 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:43:25,183 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:43:25,189 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:43:25,190 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:43:37,050 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:43:37,051 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:43:37,053 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:43:37,053 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:43:52,748 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:43:52,754 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:43:52,762 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:43:52,762 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources
+2019-03-27 16:44:13,909 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:44:13,909 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\main\resources
+2019-03-27 16:44:13,910 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 16:44:13,910 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\AquecimentoN1Test\TestesJUnit\src\test\resources

@@ -1,0 +1,20 @@
+package br.com.senaigo.test.AquecimentoN1;
+
+import java.util.Random;
+
+public class Dado {
+	
+	Random gerador;
+	
+
+	public Dado() {
+		gerador = new Random();
+	}
+	
+	public int jogarDados() {
+		if(numeroDeLados < 2) return numeroDeLados;
+		int pos = 1 + gerador.nextInt(numeroDeLados);
+		return pos;
+	}
+
+}

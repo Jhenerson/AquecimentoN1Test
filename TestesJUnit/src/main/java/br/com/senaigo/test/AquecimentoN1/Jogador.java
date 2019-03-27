@@ -1,15 +1,50 @@
 package br.com.senaigo.test.AquecimentoN1;
 
-public class Jogador {
-
+public class Jogador implements Comparable<Jogador> {
 	int pontos;
-	
-	public Jogador(){
+	String nome;
+
+	public Jogador(String nome) {
+		this.nome = nome;
 		this.pontos = 0;
 	}
 
-	public void aumentarPontos(int valorJogado) {
-		this.pontos = valorJogado;
+	public void aumentarPontos() {
+		this.pontos++;
 	}
 
+	public boolean ganhou() {
+		return this.pontos > 9;
+	}
+
+
+
+	@Override
+	public boolean equals(Object objeto) {
+		if (this == objeto)
+			return true;
+		if (objeto == null)
+			return false;
+		if (getClass() != objeto.getClass())
+			return false;
+		Jogador other = (Jogador) objeto;
+		if (nome == null) {
+			if (other.nome != null)
+				return false;
+		} else if (!nome.equals(other.nome))
+			return false;
+		return true;
+	}
+	
+	@Override
+	public int hashCode() {
+//		final int prime = 31;
+//		int result = 1;
+		return 31 * 1 + ((this.nome == null) ? 0 : this.nome.hashCode());
+//		return result;
+	}
+
+	public int compareTo(Jogador jogador) {
+		return this.nome.compareToIgnoreCase(jogador.nome);
+	}
 }
